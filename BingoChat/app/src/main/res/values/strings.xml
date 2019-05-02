@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">BingoChat</string>
+    <string name="welcome_to_bingo">Welcome to Bingo!</string>
+    <string name="main_page">Main Page!</string>
+    <string name="need_a_new_account">NEED A NEW ACCOUNT?</string>
+    <string name="display_name">Display Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="log_out">Log Out</string>
+    <string name="item">Item</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="all_users">All Users</string>
+    <string name="create_a_new_account">Create a New Account</string>
+    <string name="your_email">Your Email</string>
+    <string name="your_password">Your Password</string>
+    <string name="already_have_account">ALREADY HAVE ACCOUNT</string>
+    <string name="login">LOGIN</string>
+    <string name="login_to_your_account">Login to your Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hi_there_i_m_using_bingo_chat_app">Hi there, I\'m using Bingo Chat App.</string>
+    <string name="change_image">Change Image</string>
+    <string name="change_status">Change Status</string>
+    <string name="save_changes">SAVE CHANGES</string>
+    <string name="your_status">Your Status</string>
+    <string name="current_user_status">Current User Status</string>
+    <string name="total_friends">Total Friends</string>
+    <string name="send_friend_request">SEND FRIEND REQUEST</string>
+    <string name="decline_friend_request">DECLINE FRIEND REQUEST</string>
+    <string name="user_default_status">User default Status</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_location">Map</string>
+</resources>

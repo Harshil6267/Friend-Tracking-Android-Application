@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="visible" type="id"/>
+    <item name="masked" type="id"/>
+    <item name="message_swipe_layout" type="id" />
+    <item name="custom_bar_title" type="id" />
+    <item name="custom_bar_seen" type="id" />
+    <item name="conv_list" type="id" />
+</resources>

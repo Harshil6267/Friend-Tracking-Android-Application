@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "939004055918",
+    "firebase_url": "https://bingochat-cb5dc.firebaseio.com",
+    "project_id": "bingochat-cb5dc",
+    "storage_bucket": "bingochat-cb5dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939004055918:android:c5daf896c6d4872c",
+        "android_client_info": {
+          "package_name": "com.example.user.bingochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939004055918-8o9agqms3l449qci4bpbqk2ctnlb92r9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.bingochat",
+            "certificate_hash": "187472abb8f798c2f20eb629d713cc8d2655d64b"
+          }
+        },
+        {
+          "client_id": "939004055918-bv0m554dsnpp1v1oeg1qrdkuh03f5b40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWXq7m3O4opUCfz4FUfxsUj1wH-5rUxp0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939004055918-bv0m554dsnpp1v1oeg1qrdkuh03f5b40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
