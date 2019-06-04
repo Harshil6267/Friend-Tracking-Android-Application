@@ -1,12 +1,6 @@
 package com.example.user.bingochat;
 
-
-/**
- * Created by Aditya on 3/17/2018.
- */
-
-
-    import android.os.AsyncTask;
+import android.os.AsyncTask;
 import android.provider.ContactsContract;
 import android.util.Log;
 
